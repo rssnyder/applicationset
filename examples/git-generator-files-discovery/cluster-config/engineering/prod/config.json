@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "riley.snyder@harness.io",
     "name": "prod",
-    "address": "https://kubernetes.default.svc"
+    "address": "http://192.168.0.10:6443"
   }
 }
