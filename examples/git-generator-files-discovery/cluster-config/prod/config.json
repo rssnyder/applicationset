@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "riley.snyder@harness.io",
     "name": "lab-remote",
-    "address": "http://192.168.0.10:6443"
+    "address": "https://192.168.0.10:6443"
   }
 }
