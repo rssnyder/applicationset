@@ -3,7 +3,7 @@
   "asset_id": "11223344",
   "cluster": {
     "owner": "riley.snyder@harness.io",
-    "name": "lab",
-    "address": "https://kubernetes.default.svc"
+    "name": "lab-remote",
+    "address": "https://192.168.0.10:6443"
   }
 }
